@@ -35,7 +35,11 @@ A 3D Unity Game, Inspired by Farm Frenzy and Satisfactory, all 2D and 3D assets 
 <img width="1924" height="1079" alt="Screenshot 2026-04-22 010141" src="https://github.com/user-attachments/assets/be0b8f37-a63e-4861-945f-68e8c7c610fe" />
 <img width="1923" height="1080" alt="Screenshot 2026-04-22 011149" src="https://github.com/user-attachments/assets/f4aaa183-33d1-452a-b43d-04d674f2c3c8" />
 
+    --------MAKING QUOTA:--------
+<img width="800" height="450" alt="MakingQuota-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/36c4be2c-8550-4bae-a28e-a37afc6c481d" />
 
+--> Quota Increases Incrementally As The Game Progresses So It Will Get Much Harder To Make Quota, Which Requires You To Make More Facilities And Craft More Complex Things. 
+<img width="665" height="526" alt="Screenshot 2026-04-22 011807" src="https://github.com/user-attachments/assets/395ba2a1-dba3-4277-99b4-1dceea06af65" />
 
 
     --------ASSET LIST:--------
