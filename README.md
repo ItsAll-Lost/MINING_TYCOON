@@ -31,6 +31,7 @@ A 3D Unity Game, Inspired by Farm Frenzy and Satisfactory, all 2D and 3D assets 
     --------DAY CYCLE AND LOSE STATE:--------
 <img width="1081" height="814" alt="Screenshot 2026-04-22 005305" src="https://github.com/user-attachments/assets/894e01ca-50d6-4801-a5c2-904425d9e65d" />
 --> The Day Text Keeps Track Of The Day Cycle. Every Full Day Is A Minute A 40 Seconds. Things Like The Quota Rely Heavily On This Script.
+
 --> When The 7th Day Ends The Check Quota Function Is Called. This Will See If You Have Managed To Meet The Quota. If No, It Will Be Game Over!
 <img width="1924" height="1079" alt="Screenshot 2026-04-22 010141" src="https://github.com/user-attachments/assets/be0b8f37-a63e-4861-945f-68e8c7c610fe" />
 <img width="1923" height="1080" alt="Screenshot 2026-04-22 011149" src="https://github.com/user-attachments/assets/f4aaa183-33d1-452a-b43d-04d674f2c3c8" />
