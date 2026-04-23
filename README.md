@@ -20,7 +20,7 @@ A 3D Unity Game, Inspired by Farm Frenzy and Satisfactory, all 2D and 3D assets 
     --------FACILITIES AND THEIR FUNCTION:--------
 <img width="800" height="450" alt="FacilityOne-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/6e3118e7-7500-41ab-953b-717c575eacd2" />
 
---> To Activate A Facility It Requires You To Have The Proper Amount Of Materials. Once Achieved And The Button Is Clicked It Activates The Facility And RRemoves The Monitor And Platform It Spawns At.
+--> To Activate A Facility It Requires You To Have The Proper Amount Of Materials. Once Achieved And The Button Is Clicked It Activates The Facility And Removes The Monitor And Platform It Spawns At.
 
 <img width="531" height="579" alt="Screenshot 2026-04-22 003846" src="https://github.com/user-attachments/assets/3c68ca9d-cced-40d9-892b-9db50595a431" />
 
