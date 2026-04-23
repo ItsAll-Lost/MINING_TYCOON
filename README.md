@@ -27,6 +27,7 @@ A 3D Unity Game, Inspired by Farm Frenzy and Satisfactory, all 2D and 3D assets 
 <img width="1317" height="881" alt="Screenshot 2026-04-22 004020" src="https://github.com/user-attachments/assets/5f4a2263-d7d3-4db9-8725-ae02ee8f17f4" />
 
 --> Each Facilty Handles Its Own Progress, Production, Energy Consumption and It's Crafting Recipes Which It Pulls Straight From The Inventory.
+<img width="1147" height="607" alt="Screenshot 2026-04-22 221749" src="https://github.com/user-attachments/assets/6f5b8887-f088-4fb2-a95e-2f6da3809cd4" />
 
     --------DAY CYCLE AND LOSE STATE:--------
 <img width="1081" height="814" alt="Screenshot 2026-04-22 005305" src="https://github.com/user-attachments/assets/894e01ca-50d6-4801-a5c2-904425d9e65d" />
